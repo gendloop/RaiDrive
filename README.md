@@ -1,9 +1,9 @@
-# RepoName
+# RaiDrive
 
 ## Install
 
 ```powershell
-scoop install gendloopBucket/RepoName
+scoop install gendloopBucket/RaiDrive
 ```
 
 ## Notes
